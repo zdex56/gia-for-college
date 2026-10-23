@@ -1,0 +1,31 @@
+body {
+  font-family: Georgia, serif;
+  background: #ffffff;
+}
+
+.card {
+  background: #f4e6d4;
+  padding: 8px;
+  margin: 8px 0;
+}
+
+button {
+  font-family: Georgia, serif;
+  background: #8a5a44;
+  color: #ffffff;
+  border: none;
+  padding: 8px 16px;
+  margin-right: 8px;
+}
+
+input,
+select {
+  font-family: Georgia, serif;
+  display: block;
+  padding: 6px;
+  margin: 4px 0 12px;
+}
+
+dialog {
+  background: #f4e6d4;
+}
